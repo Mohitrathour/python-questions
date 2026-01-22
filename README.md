@@ -1,4 +1,4 @@
-# [Project Name]
+# [python practice]
 
 ## Description
 This is a Python script that [explain what it does, e.g., calculates the area of a circle]. 
